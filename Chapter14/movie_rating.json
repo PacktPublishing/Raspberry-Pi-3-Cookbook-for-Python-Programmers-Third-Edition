@@ -1,0 +1,55 @@
+{
+    "Steven Ferndndes": 
+    {
+        "50 Shades of Gray": 3.5,
+        "Angry Bird": 3.0,
+        "Jerry Maguire": 3.0
+    },
+    "Ramesh Nayak": 
+    {
+        "Intersteller": 3.0,
+        "50 Shades of Gray": 3.5,
+        "Angry Bird": 1.5,
+        "Avengers": 5.0,
+        "Dark night": 3.0,
+        "Jerry Maguire": 3.0
+    },
+    "William Reynolds": 
+    {
+        "Intersteller": 2.5,
+        "50 Shades of Gray": 3.0,
+        "Avengers": 3.5,
+        "Dark night": 4.0
+    },
+    "Jillian Hobart": 
+    {
+        "50 Shades of Gray": 3.5,
+        "Angry Bird": 3.0,
+        "Jerry Maguire": 4.5,
+        "Avengers": 4.0,
+        "Dark night": 2.5 
+    },
+    "Melissa Jones": 
+    {
+        "Intersteller": 3.0,
+        "50 Shades of Gray": 4.0,
+        "Angry Bird": 2.0,
+        "Avengers": 3.0,
+        "Dark night": 3.0,
+        "Jerry Maguire": 2.0
+    },
+    "Alex Roberts": 
+    {
+       "Intersteller": 3.0,
+       "50 Shades of Gray": 4.0,
+       "Dark night": 3.0,
+       "Avengers": 5.0,
+       "Jerry Maguire": 3.5
+    },
+    "Michael Henry": 
+    {
+       "Intersteller": 4.5,
+       "Jerry Maguire": 1.0,
+       "Avengers": 4.0
+    }
+}
